@@ -1,0 +1,15 @@
+E:\network\tcpSer\bin\Debug\tcpserver.exe
+E:\network\tcpSer\bin\Debug\tcpserver.pdb
+E:\network\tcpSer\obj\x86\Debug\tcpserver.frm_server.resources
+E:\network\tcpSer\obj\x86\Debug\tcpserver.Properties.Resources.resources
+E:\network\tcpSer\obj\x86\Debug\tcpserver.csproj.GenerateResource.Cache
+E:\network\tcpSer\obj\x86\Debug\tcpserver.exe
+E:\network\tcpSer\obj\x86\Debug\tcpserver.pdb
+E:\network\tcpServer\bin\Debug\tcpserver.exe
+E:\network\tcpServer\bin\Debug\tcpserver.pdb
+E:\network\tcpServer\obj\x86\Debug\tcpserver.csprojResolveAssemblyReference.cache
+E:\network\tcpServer\obj\x86\Debug\tcpserver.frm_server.resources
+E:\network\tcpServer\obj\x86\Debug\tcpserver.Properties.Resources.resources
+E:\network\tcpServer\obj\x86\Debug\tcpserver.csproj.GenerateResource.Cache
+E:\network\tcpServer\obj\x86\Debug\tcpserver.exe
+E:\network\tcpServer\obj\x86\Debug\tcpserver.pdb

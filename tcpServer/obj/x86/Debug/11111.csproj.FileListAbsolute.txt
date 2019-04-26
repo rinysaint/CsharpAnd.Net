@@ -1,0 +1,31 @@
+c:\users\administrator\documents\visual studio 2010\Projects\11111\11111\bin\Debug\11111.exe
+c:\users\administrator\documents\visual studio 2010\Projects\11111\11111\bin\Debug\11111.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\11111\11111\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\11111\11111\obj\x86\Debug\_11111.frm_server.resources
+c:\users\administrator\documents\visual studio 2010\Projects\11111\11111\obj\x86\Debug\_11111.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\11111\11111\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\11111\11111\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\11111\11111\obj\x86\Debug\11111.exe
+c:\users\administrator\documents\visual studio 2010\Projects\11111\11111\obj\x86\Debug\11111.pdb
+G:\百度网盘\TCP 通信（数据、文件的传输）\TCP 通信（数据、文件的传输）\服务端\obj\x86\Debug\11111.exe
+G:\百度网盘\TCP 通信（数据、文件的传输）\TCP 通信（数据、文件的传输）\服务端\obj\x86\Debug\11111.pdb
+G:\百度网盘\TCP 通信（数据、文件的传输）\TCP 通信（数据、文件的传输）\服务端\bin\Debug\11111.exe
+G:\百度网盘\TCP 通信（数据、文件的传输）\TCP 通信（数据、文件的传输）\服务端\bin\Debug\11111.pdb
+G:\百度网盘\TCP 通信（数据、文件的传输）\TCP 通信（数据、文件的传输）\服务端\obj\x86\Debug\11111.csprojResolveAssemblyReference.cache
+G:\百度网盘\TCP 通信（数据、文件的传输）\TCP 通信（数据、文件的传输）\服务端\obj\x86\Debug\_11111.frm_server.resources
+G:\百度网盘\TCP 通信（数据、文件的传输）\TCP 通信（数据、文件的传输）\服务端\obj\x86\Debug\_11111.Properties.Resources.resources
+G:\百度网盘\TCP 通信（数据、文件的传输）\TCP 通信（数据、文件的传输）\服务端\obj\x86\Debug\11111.csproj.GenerateResource.Cache
+D:\360安全浏览器下载\TCP 通信（数据、文件的传输）\TCP 通信（数据、文件的传输）\TCP 通信（数据、文件的传输）\服务端\bin\Debug\11111.exe
+D:\360安全浏览器下载\TCP 通信（数据、文件的传输）\TCP 通信（数据、文件的传输）\TCP 通信（数据、文件的传输）\服务端\bin\Debug\11111.pdb
+D:\360安全浏览器下载\TCP 通信（数据、文件的传输）\TCP 通信（数据、文件的传输）\TCP 通信（数据、文件的传输）\服务端\obj\x86\Debug\_11111.frm_server.resources
+D:\360安全浏览器下载\TCP 通信（数据、文件的传输）\TCP 通信（数据、文件的传输）\TCP 通信（数据、文件的传输）\服务端\obj\x86\Debug\_11111.Properties.Resources.resources
+D:\360安全浏览器下载\TCP 通信（数据、文件的传输）\TCP 通信（数据、文件的传输）\TCP 通信（数据、文件的传输）\服务端\obj\x86\Debug\11111.csproj.GenerateResource.Cache
+D:\360安全浏览器下载\TCP 通信（数据、文件的传输）\TCP 通信（数据、文件的传输）\TCP 通信（数据、文件的传输）\服务端\obj\x86\Debug\11111.exe
+D:\360安全浏览器下载\TCP 通信（数据、文件的传输）\TCP 通信（数据、文件的传输）\TCP 通信（数据、文件的传输）\服务端\obj\x86\Debug\11111.pdb
+E:\network\tcpSer\bin\Debug\11111.exe
+E:\network\tcpSer\bin\Debug\11111.pdb
+E:\network\tcpSer\obj\x86\Debug\_11111.frm_server.resources
+E:\network\tcpSer\obj\x86\Debug\_11111.Properties.Resources.resources
+E:\network\tcpSer\obj\x86\Debug\11111.csproj.GenerateResource.Cache
+E:\network\tcpSer\obj\x86\Debug\11111.exe
+E:\network\tcpSer\obj\x86\Debug\11111.pdb
