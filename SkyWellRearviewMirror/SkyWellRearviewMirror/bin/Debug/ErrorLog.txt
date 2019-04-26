@@ -1,0 +1,235 @@
+-------------------------------------------------------
+2019/4/25 9:33:10
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellRearviewMirrorLeft.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\20190425\SkyWellRearviewMirrorLeft\SkyWellRearviewMirrorLeft\App.xaml.cs:行号 112
+-------------------------------------------------------
+2019/4/25 9:34:48
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellRearviewMirrorLeft.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\20190425\SkyWellRearviewMirrorLeft\SkyWellRearviewMirrorLeft\App.xaml.cs:行号 112
+-------------------------------------------------------
+2019/4/25 9:44:15
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellRearviewMirrorLeft.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\20190425\SkyWellRearviewMirrorLeft\SkyWellRearviewMirrorLeft\App.xaml.cs:行号 112
+-------------------------------------------------------
+2019/4/25 10:10:58
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellRearviewMirrorLeft.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\20190425\SkyWellRearviewMirrorLeft\SkyWellRearviewMirrorLeft\App.xaml.cs:行号 112
+-------------------------------------------------------
+2019/4/25 11:38:59
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellRearviewMirror.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\20190425\SkyWellRearviewMirrorLeft\SkyWellRearviewMirrorLeft\App.xaml.cs:行号 112
+-------------------------------------------------------
+2019/4/25 13:59:22
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellRearviewMirror.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\20190425\SkyWellRearviewMirror\SkyWellRearviewMirror\App.xaml.cs:行号 112
+-------------------------------------------------------
+2019/4/25 19:15:05
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellRearviewMirror.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\SkyWellRearviewMirror\SkyWellRearviewMirror\App.xaml.cs:行号 112
+-------------------------------------------------------
+2019/4/25 19:15:23
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellRearviewMirror.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\SkyWellRearviewMirror\SkyWellRearviewMirror\App.xaml.cs:行号 112
+-------------------------------------------------------
+2019/4/25 19:20:45
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellRearviewMirror.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\SkyWellRearviewMirror\SkyWellRearviewMirror\App.xaml.cs:行号 112
+-------------------------------------------------------
+2019/4/25 19:21:43
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellRearviewMirror.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\SkyWellRearviewMirror\SkyWellRearviewMirror\App.xaml.cs:行号 112
+-------------------------------------------------------
+2019/4/25 19:22:25
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellRearviewMirror.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\SkyWellRearviewMirror\SkyWellRearviewMirror\App.xaml.cs:行号 112
+-------------------------------------------------------
+2019/4/25 19:23:19
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellRearviewMirror.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\SkyWellRearviewMirror\SkyWellRearviewMirror\App.xaml.cs:行号 112
+-------------------------------------------------------
+2019/4/25 19:23:37
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellRearviewMirror.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\SkyWellRearviewMirror\SkyWellRearviewMirror\App.xaml.cs:行号 112
+-------------------------------------------------------
+2019/4/25 19:25:22
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellRearviewMirror.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\SkyWellRearviewMirror\SkyWellRearviewMirror\App.xaml.cs:行号 112
+-------------------------------------------------------
+2019/4/25 19:26:38
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellRearviewMirror.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\SkyWellRearviewMirror\SkyWellRearviewMirror\App.xaml.cs:行号 112
+-------------------------------------------------------
+2019/4/25 19:26:52
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellRearviewMirror.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\SkyWellRearviewMirror\SkyWellRearviewMirror\App.xaml.cs:行号 112
+-------------------------------------------------------
+2019/4/25 19:28:34
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellRearviewMirror.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\SkyWellRearviewMirror\SkyWellRearviewMirror\App.xaml.cs:行号 112
+-------------------------------------------------------
+2019/4/25 19:28:49
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellRearviewMirror.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\SkyWellRearviewMirror\SkyWellRearviewMirror\App.xaml.cs:行号 112
+-------------------------------------------------------
+2019/4/25 19:30:10
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellRearviewMirror.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\SkyWellRearviewMirror\SkyWellRearviewMirror\App.xaml.cs:行号 112
+-------------------------------------------------------
+2019/4/25 19:30:12
+成员名: Void .ctor(IntPtr, Int32, Int32, System.Windows.Media.PixelFormat, Int32, Int32)
+引发异常的类: System.Windows.Interop.InteropBitmap
+异常信息: 句柄无效。 (异常来自 HRESULT:0x80070006 (E_HANDLE))
+引发异常的程序集或对象: PresentationCore
+栈：   在 System.Windows.Interop.InteropBitmap..ctor(IntPtr section, Int32 pixelWidth, Int32 pixelHeight, PixelFormat format, Int32 stride, Int32 offset)
+   在 System.Windows.Interop.Imaging.CreateBitmapSourceFromMemorySection(IntPtr section, Int32 pixelWidth, Int32 pixelHeight, PixelFormat format, Int32 stride, Int32 offset)
+   在 Vlc.DotNet.Wpf.VlcVideoSourceProvider.<>c__DisplayClass19_0.<VideoFormat>b__0()
+   在 System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   在 System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   在 System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   在 System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   在 System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   在 Vlc.DotNet.Wpf.VlcVideoSourceProvider.VideoFormat(IntPtr& userdata, IntPtr chroma, UInt32& width, UInt32& height, UInt32& pitches, UInt32& lines)
+-------------------------------------------------------
+2019/4/25 19:30:29
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellRearviewMirror.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\SkyWellRearviewMirror\SkyWellRearviewMirror\App.xaml.cs:行号 112
+-------------------------------------------------------
+2019/4/26 8:11:50
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellRearviewMirror.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\SkyWellRearviewMirror\SkyWellRearviewMirror\App.xaml.cs:行号 112
+-------------------------------------------------------
+2019/4/26 8:12:04
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellRearviewMirror.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\SkyWellRearviewMirror\SkyWellRearviewMirror\App.xaml.cs:行号 112
+-------------------------------------------------------
+2019/4/26 8:12:20
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellRearviewMirror.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\SkyWellRearviewMirror\SkyWellRearviewMirror\App.xaml.cs:行号 112
+-------------------------------------------------------
+2019/4/26 8:12:29
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellRearviewMirror.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\SkyWellRearviewMirror\SkyWellRearviewMirror\App.xaml.cs:行号 112
