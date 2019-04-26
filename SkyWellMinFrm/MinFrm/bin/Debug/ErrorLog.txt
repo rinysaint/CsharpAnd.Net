@@ -1,0 +1,46 @@
+-------------------------------------------------------
+2019-3-21 8:12:10
+成员名: Void Win32Error(Int32, System.String)
+引发异常的类: Microsoft.Win32.RegistryKey
+异常信息: 尝试执行未经授权的操作。
+引发异常的程序集或对象: mscorlib
+栈：   在 Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   在 Microsoft.Win32.RegistryKey.SetValue(String name, Object value, RegistryValueKind valueKind)
+   在 Microsoft.Win32.RegistryKey.SetValue(String name, Object value)
+   在 MinFrm.App.SetSelfStarting(Boolean started, String exeName) 位置 E:\network\20190321\MinFrm\MinFrm\App.xaml.cs:行号 97
+-------------------------------------------------------
+2019/4/3 14:00:52
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 MinFrm.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\MinFrm20190326\MinFrm\App.xaml.cs:行号 112
+-------------------------------------------------------
+2019/4/4 13:58:48
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 MinFrm.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\MinFrm20190326\MinFrm\App.xaml.cs:行号 112
+-------------------------------------------------------
+2019/4/4 13:59:18
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 MinFrm.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\MinFrm20190326\MinFrm\App.xaml.cs:行号 112
+-------------------------------------------------------
+2019/4/4 14:00:09
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 MinFrm.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\MinFrm20190326\MinFrm\App.xaml.cs:行号 112

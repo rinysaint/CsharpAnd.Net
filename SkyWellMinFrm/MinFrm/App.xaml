@@ -1,0 +1,9 @@
+﻿<Application x:Class="MinFrm.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:MinFrm"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary Source="style/MyMenuItem.xaml"/>
+    </Application.Resources>
+</Application>

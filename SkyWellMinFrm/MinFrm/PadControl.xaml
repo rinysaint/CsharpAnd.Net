@@ -1,0 +1,51 @@
+﻿<Window x:Class="MinFrm.PadControl"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="平板操作" Height="800" Width="1024">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="396" />
+            <ColumnDefinition Width="214" />
+            <ColumnDefinition Width="396" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="231"/>
+            <RowDefinition Height="531"/>
+        </Grid.RowDefinitions>
+
+        <Border Grid.ColumnSpan="3" Grid.RowSpan="2" BorderBrush="Black" BorderThickness="8,8,8,8"/>
+        <Border Grid.Row="0" Grid.Column="0" BorderBrush="#FFC3C3C3" BorderThickness="0,0,8,8"/>
+        <Border Grid.Row="0" Grid.Column="2" BorderBrush="#FFC3C3C3" BorderThickness="8,0,0,8"/>
+        <Border Grid.Row="1" Grid.Column="0" BorderBrush="#FFC3C3C3" BorderThickness="0,0,8,0"/>
+        <Border Grid.Row="1" Grid.Column="1" BorderBrush="#FFC3C3C3" BorderThickness="0,8,0,0"/>
+        <Border Grid.Row="1" Grid.Column="2" BorderBrush="#FFC3C3C3" BorderThickness="8,0,0,0"/>
+
+        <Button x:Name="button" Content="退出" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="150" Height="50" Background="#FF169BD5" FontSize="24" Foreground="White" Click="button1_Click"/>
+        <Label x:Name="label1" Grid.Column="0" Grid.Row="0" Content="智驾系统可靠性："  VerticalAlignment="Top" Height="64" FontSize="36" HorizontalAlignment="Left" Width="297" Margin="10,159,0,0" RenderTransformOrigin="0.578,0.475" Foreground="#FF424BCC" FontFamily="Microsoft YaHei"/>
+        <Label x:Name="label2" Grid.Column="0" Grid.Row="0" Content="2级"  VerticalAlignment="Top" Height="61" FontSize="36" HorizontalAlignment="Left" Width="83" Margin="307,162,0,0" Foreground="#FFFF7F28"/>
+        <Label x:Name="label3" Grid.Column="0" Grid.Row="0" Content="当前档位："  VerticalAlignment="Top" Height="68" FontSize="36" HorizontalAlignment="Left" Width="211" Margin="10,91,0,0" RenderTransformOrigin="0.578,0.475" Foreground="#FF424BCC"/>
+        <Label x:Name="label4" Content="D"  VerticalAlignment="Top" Height="68" FontSize="36" HorizontalAlignment="Left" Width="74" Margin="221,91,0,0" Foreground="#FF424BCC" />
+
+        <Label x:Name="label5" Grid.Column="0" Grid.Row="1" Content="方向盘转角："  VerticalAlignment="Top" Height="55" FontSize="36" HorizontalAlignment="Left" Width="216" Margin="42,29,0,0" RenderTransformOrigin="0.578,0.475" Foreground="#FF424BCC"/>
+        <Label x:Name="label6" Grid.Column="0" Grid.Row="1" Content="360"  VerticalAlignment="Top" Height="54" FontSize="36" HorizontalAlignment="Left" Width="102" Margin="263,30,0,0" RenderTransformOrigin="0.578,0.475" Foreground="#FF424BCC"/>
+        <ScrollViewer x:Name="scrolls"  VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" Margin="21,118,16,54" Grid.Row="1" Width="360" Height="360" >
+            <StackPanel Orientation="Horizontal"   ScrollViewer.VerticalScrollBarVisibility="Auto">
+                <Canvas x:Name="canvas_PadControl" IsManipulationEnabled="True"  MouseDown="canvas_PadControl_MouseDown" MouseUp="canvas_PadControl_MouseUp" ManipulationInertiaStarting="canvas_PadControl_ManipulationInertiaStarting" TouchDown="canvas_PadControl_TouchDown" TouchUp="canvas_PadControl_TouchUp"/>
+            </StackPanel>
+        </ScrollViewer>
+
+        <Canvas x:Name="canvas_PadControl_wheel" Grid.Column="1" Grid.Row="0" Margin="55,35,57,104" Width="112" Height="111" />
+        <Label x:Name="label7" Grid.Column="1" Content="车轮转角："  VerticalAlignment="Top" Height="54" FontSize="36" HorizontalAlignment="Left" Width="179" Margin="0,162,0,0" RenderTransformOrigin="0.578,0.475" Foreground="#FF424BCC"/>
+        <Label x:Name="label8" Grid.Column="1" Content="10"  VerticalAlignment="Top" Height="57" FontSize="36" HorizontalAlignment="Left" Width="55" Margin="169,162,0,0" RenderTransformOrigin="0.578,0.475" Foreground="#FF424BCC"/>
+
+        <Button x:Name="button1" Content="D" Grid.Column="1" HorizontalAlignment="Left" Margin="66,27,0,0" Grid.Row="1" VerticalAlignment="Top" Width="80" RenderTransformOrigin="0.493,-0.045" Height="80" FontWeight="Bold" FontSize="48"/>
+        <Button x:Name="button1_Copy" Content="N" Grid.Column="1" HorizontalAlignment="Left" Margin="66,131,0,0" Grid.Row="1" VerticalAlignment="Top" Width="80" RenderTransformOrigin="0.493,-0.045" Height="80" FontSize="48" FontWeight="Bold"/>
+        <Button x:Name="button1_Copy1" Content="R" Grid.Column="1" HorizontalAlignment="Left" Margin="66,235,0,0" Grid.Row="1" VerticalAlignment="Top" Width="80" RenderTransformOrigin="0.493,-0.045" Height="77" FontWeight="Bold" FontSize="48"/>
+        <Canvas x:Name="canvas_PadControl_gear" Grid.Column="1" Grid.Row="1" Margin="30,383,36,60" Width="149" Height="97" />
+
+        <Canvas x:Name="canvas_PadControl_speed"  Grid.Column="2" Margin="213,71,23,59" />
+        <Label x:Name="label9" Grid.Column="2" Content="23.6 km/h"  VerticalAlignment="Top" Height="52" FontSize="36" HorizontalAlignment="Left" Width="203" Margin="10,107,0,0" RenderTransformOrigin="0.578,0.475" Foreground="#FF424BCC"/>
+        <Canvas x:Name="canvas_PadControl_speedcontrol" Grid.Column="2" Grid.Row="1" Margin="10,10,18,40" Width="94" Height="269" MouseDown="canvas_PadControl_speedcontrol_MouseDown" MouseUp="canvas_PadControl_speedcontrol_MouseUp"/>
+
+    </Grid>
+</Window>
