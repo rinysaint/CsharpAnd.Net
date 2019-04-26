@@ -1,0 +1,2 @@
+D:\network\SkyWellAGaugeApp\SkyWellAGaugeApp\bin\Debug\SkyWellDashboard.exe.config
+D:\network\SkyWellDashboard\SkyWellAGaugeApp\bin\Debug\SkyWellDashboard.exe.config

@@ -1,0 +1,331 @@
+2019-04-20 14:19:56,025 [10] INFO  log4net.AppLog [(null)] - UDP监听器已成功启动
+2019-04-20 14:19:56,103 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:19:57,025 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:19:58,026 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:19:59,026 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:00,026 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:01,027 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:02,027 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:03,027 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:04,027 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:05,029 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:06,028 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:07,027 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:08,028 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:09,029 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:10,028 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:11,030 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:12,029 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:13,031 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:14,030 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:15,032 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:16,032 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:17,032 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:18,032 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:19,032 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:20,036 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:21,035 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:22,033 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:23,035 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:24,036 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:25,037 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:26,037 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:27,038 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:28,038 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:29,040 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:30,038 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:31,039 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:32,039 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:33,040 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:34,041 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:35,040 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:36,041 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:37,041 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:38,042 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:39,043 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:40,043 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:41,043 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:42,045 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:43,043 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:44,044 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:45,045 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:46,046 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:47,046 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:48,046 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:49,047 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:50,048 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:51,048 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:52,047 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:53,048 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:54,049 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:55,049 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:56,050 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:57,049 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:58,050 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:20:59,050 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:00,051 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:01,050 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:02,051 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:03,052 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:04,053 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:05,054 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:06,059 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:07,053 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:08,056 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:09,057 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:10,055 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:11,057 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:12,056 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:13,056 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:14,057 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:15,056 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:16,057 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:17,059 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:18,059 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:19,059 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:20,059 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:21,059 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:22,075 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:23,062 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:24,061 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:25,063 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:26,066 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:27,063 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:28,064 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:29,065 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:30,064 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:31,065 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:32,066 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:33,069 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:34,068 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:35,075 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:36,070 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:21:37,073 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:22:03,613 [10] INFO  log4net.AppLog [(null)] - UDP监听器已成功启动
+2019-04-20 14:22:13,528 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:22:14,666 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:22:18,018 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:22:18,032 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:22:22,342 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:27:22,222 [9] INFO  log4net.AppLog [(null)] - UDP监听器已成功启动
+2019-04-20 14:27:22,269 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:27:22,280 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:27:23,238 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:27:30,826 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:27:33,066 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:27:33,077 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:43:49,328 [9] INFO  log4net.AppLog [(null)] - UDP监听器已成功启动
+2019-04-20 14:43:49,388 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:43:50,339 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:43:51,340 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:43:52,338 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:43:53,339 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:43:54,340 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:43:55,339 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:43:56,340 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:43:57,340 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:43:58,343 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:43:59,342 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:44:00,342 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:44:01,343 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:44:02,345 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:44:03,344 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:44:04,346 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:44:05,346 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:44:06,345 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:44:07,347 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:44:08,346 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:44:09,345 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:44:10,348 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:44:11,347 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:44:19,921 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:44:24,102 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:44:24,702 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:44:25,906 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:45:09,826 [9] INFO  log4net.AppLog [(null)] - UDP监听器已成功启动
+2019-04-20 14:45:11,703 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:45:11,715 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:45:12,672 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:45:13,672 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:45:14,672 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:45:15,672 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:45:24,141 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:45:30,709 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:45:31,272 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 14:55:31,203 [8] INFO  log4net.AppLog [(null)] - UDP监听器已成功启动
+2019-04-20 14:55:41,593 [8] INFO  log4net.AppLog [(null)] - 总PING数：12丢包数：1丢包率：8.33
+2019-04-20 14:56:39,513 [8] INFO  log4net.AppLog [(null)] - 总PING数：48丢包数：2丢包率：4.17
+2019-04-20 14:57:38,569 [9] INFO  log4net.AppLog [(null)] - UDP监听器已成功启动
+2019-04-20 14:57:42,593 [9] INFO  log4net.AppLog [(null)] - 总PING数：6丢包数：1丢包率：16.67
+2019-04-20 15:21:57,572 [10] INFO  log4net.AppLog [(null)] - UDP监听器已成功启动
+2019-04-20 15:21:57,630 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 15:21:57,644 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 15:21:58,580 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 15:21:59,586 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 15:22:00,580 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 15:22:01,581 [10] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 15:31:14,818 [9] INFO  log4net.AppLog [(null)] - UDP监听器已成功启动
+2019-04-20 15:33:00,714 [9] INFO  log4net.AppLog [(null)] - 总PING数：38丢包数：1丢包率：2.63
+2019-04-20 15:35:58,271 [9] INFO  log4net.AppLog [(null)] - UDP监听器已成功启动
+2019-04-20 15:36:40,593 [9] INFO  log4net.AppLog [(null)] - 总PING数：44丢包数：1丢包率：2.27
+2019-04-20 15:37:29,334 [8] INFO  log4net.AppLog [(null)] - UDP监听器已成功启动
+2019-04-20 15:37:37,592 [8] INFO  log4net.AppLog [(null)] - 总PING数：9丢包数：1丢包率：11.11
+2019-04-20 15:37:39,593 [8] INFO  log4net.AppLog [(null)] - 总PING数：11丢包数：2丢包率：18.18
+2019-04-20 15:41:48,030 [9] INFO  log4net.AppLog [(null)] - UDP监听器已成功启动
+2019-04-20 15:41:48,109 [9] INFO  log4net.AppLog [(null)] - 总PING数：1丢包数：1丢包率：100.00
+2019-04-20 15:42:05,093 [9] INFO  log4net.AppLog [(null)] - 总PING数：18丢包数：2丢包率：11.11
+2019-04-20 15:42:08,093 [9] INFO  log4net.AppLog [(null)] - 总PING数：21丢包数：3丢包率：14.29
+2019-04-20 15:42:14,093 [9] INFO  log4net.AppLog [(null)] - 总PING数：27丢包数：4丢包率：14.81
+2019-04-20 15:42:17,093 [9] INFO  log4net.AppLog [(null)] - 总PING数：30丢包数：5丢包率：16.67
+2019-04-20 15:42:20,093 [9] INFO  log4net.AppLog [(null)] - 总PING数：33丢包数：6丢包率：18.18
+2019-04-20 15:42:36,093 [9] INFO  log4net.AppLog [(null)] - 总PING数：49丢包数：7丢包率：14.29
+2019-04-20 15:42:38,093 [9] INFO  log4net.AppLog [(null)] - 总PING数：51丢包数：8丢包率：15.69
+2019-04-20 15:42:40,093 [9] INFO  log4net.AppLog [(null)] - 总PING数：53丢包数：9丢包率：16.98
+2019-04-20 15:43:37,093 [9] INFO  log4net.AppLog [(null)] - 总PING数：50丢包数：1丢包率：2.00
+2019-04-20 15:43:38,092 [9] INFO  log4net.AppLog [(null)] - 总PING数：51丢包数：2丢包率：3.92
+2019-04-20 15:43:39,093 [9] INFO  log4net.AppLog [(null)] - 总PING数：52丢包数：3丢包率：5.77
+2019-04-20 15:43:40,093 [9] INFO  log4net.AppLog [(null)] - 总PING数：53丢包数：4丢包率：7.55
+2019-04-20 15:43:42,093 [9] INFO  log4net.AppLog [(null)] - 总PING数：55丢包数：5丢包率：9.09
+2019-04-20 15:43:43,093 [9] INFO  log4net.AppLog [(null)] - 总PING数：56丢包数：6丢包率：10.71
+2019-04-20 15:44:10,093 [9] INFO  log4net.AppLog [(null)] - 总PING数：23丢包数：1丢包率：4.35
+2019-04-20 15:44:18,093 [9] INFO  log4net.AppLog [(null)] - 总PING数：31丢包数：2丢包率：6.45
+2019-04-20 15:44:19,093 [9] INFO  log4net.AppLog [(null)] - 总PING数：32丢包数：3丢包率：9.38
+2019-04-20 15:44:20,093 [9] INFO  log4net.AppLog [(null)] - 总PING数：33丢包数：4丢包率：12.12
+2019-04-20 15:44:21,092 [9] INFO  log4net.AppLog [(null)] - 总PING数：34丢包数：5丢包率：14.71
+2019-04-20 15:44:22,093 [9] INFO  log4net.AppLog [(null)] - 总PING数：35丢包数：6丢包率：17.14
+2019-04-20 15:44:23,093 [9] INFO  log4net.AppLog [(null)] - 总PING数：36丢包数：7丢包率：19.44
+2019-04-20 15:44:37,593 [9] INFO  log4net.AppLog [(null)] - 总PING数：50丢包数：8丢包率：16.00
+2019-04-20 15:44:39,593 [9] INFO  log4net.AppLog [(null)] - 总PING数：52丢包数：9丢包率：17.31
+2019-04-20 15:44:41,592 [9] INFO  log4net.AppLog [(null)] - 总PING数：54丢包数：10丢包率：18.52
+2019-04-20 15:44:42,593 [9] INFO  log4net.AppLog [(null)] - 总PING数：55丢包数：11丢包率：20.00
+2019-04-20 15:45:38,593 [9] INFO  log4net.AppLog [(null)] - 总PING数：51丢包数：1丢包率：1.96
+2019-04-20 15:45:39,593 [9] INFO  log4net.AppLog [(null)] - 总PING数：52丢包数：2丢包率：3.85
+2019-04-20 15:45:40,593 [9] INFO  log4net.AppLog [(null)] - 总PING数：53丢包数：3丢包率：5.66
+2019-04-20 15:45:42,593 [9] INFO  log4net.AppLog [(null)] - 总PING数：55丢包数：4丢包率：7.27
+2019-04-20 15:46:37,592 [9] INFO  log4net.AppLog [(null)] - 总PING数：50丢包数：1丢包率：2.00
+2019-04-20 15:46:38,593 [9] INFO  log4net.AppLog [(null)] - 总PING数：51丢包数：2丢包率：3.92
+2019-04-20 15:46:42,593 [9] INFO  log4net.AppLog [(null)] - 总PING数：55丢包数：3丢包率：5.45
+2019-04-20 15:47:36,592 [9] INFO  log4net.AppLog [(null)] - 总PING数：49丢包数：1丢包率：2.04
+2019-04-20 15:47:40,593 [9] INFO  log4net.AppLog [(null)] - 总PING数：53丢包数：2丢包率：3.77
+2019-04-20 16:38:10,091 [9] INFO  log4net.AppLog [(null)] - UDP监听器已成功启动
+2019-04-20 16:38:38,386 [9] INFO  log4net.AppLog [(null)] - 总PING数：29丢包数：1丢包率：3.45
+2019-04-20 16:38:39,386 [9] INFO  log4net.AppLog [(null)] - 总PING数：30丢包数：2丢包率：6.67
+2019-04-20 16:40:24,825 [9] INFO  log4net.AppLog [(null)] - UDP监听器已成功启动
+2019-04-20 16:40:37,886 [9] INFO  log4net.AppLog [(null)] - 总PING数：14丢包数：1丢包率：7.14
+2019-04-20 16:40:39,886 [9] INFO  log4net.AppLog [(null)] - 总PING数：16丢包数：2丢包率：12.50
+2019-04-20 16:40:40,886 [9] INFO  log4net.AppLog [(null)] - 总PING数：17丢包数：3丢包率：17.65
+2019-04-20 16:41:19,886 [9] INFO  log4net.AppLog [(null)] - 总PING数：56丢包数：4丢包率：7.14
+2019-04-20 16:41:38,886 [9] INFO  log4net.AppLog [(null)] - 总PING数：15丢包数：1丢包率：6.67
+2019-04-20 16:41:40,886 [9] INFO  log4net.AppLog [(null)] - 总PING数：17丢包数：2丢包率：11.76
+2019-04-20 16:41:42,887 [9] INFO  log4net.AppLog [(null)] - 总PING数：19丢包数：3丢包率：15.79
+2019-04-20 16:42:33,886 [9] INFO  log4net.AppLog [(null)] - 总PING数：10丢包数：1丢包率：10.00
+2019-04-20 16:42:34,945 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:42:35,894 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:42:36,895 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:42:37,895 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:42:38,894 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:42:39,895 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:42:40,895 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:42:41,895 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:42:42,895 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:42:43,898 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:42:44,895 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:42:45,898 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:42:46,897 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:42:47,899 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:42:48,900 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:42:49,898 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:42:50,899 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:42:51,899 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:42:52,900 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:42:53,903 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:42:54,901 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:42:55,910 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:42:56,905 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:42:57,905 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:42:58,905 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:42:59,907 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:43:00,907 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:43:01,908 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:43:02,908 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:43:03,908 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:43:04,910 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:43:05,911 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:43:06,910 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:43:07,911 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:43:08,920 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:43:09,912 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:43:10,912 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:43:11,915 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:43:12,915 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:43:13,913 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:43:14,916 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:43:15,914 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:43:16,915 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:43:17,915 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:43:18,917 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:43:19,916 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:43:27,770 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:43:41,614 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:43:51,208 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:43:52,410 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:43:58,004 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:43:58,016 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:43:58,028 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:43:59,005 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:44:00,009 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:44:01,007 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:44:02,006 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:44:03,006 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:44:04,008 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:44:05,007 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:44:06,008 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:44:07,008 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:44:08,008 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:44:09,008 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:44:10,012 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:44:11,012 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:44:12,011 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:44:13,012 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:48:21,888 [9] INFO  log4net.AppLog [(null)] - UDP监听器已成功启动
+2019-04-20 16:48:21,967 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:48:22,906 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:48:23,907 [9] ERROR log4net.AppLog [(null)] - Ping 请求期间发生异常。
+2019-04-20 16:50:51,236 [9] INFO  log4net.AppLog [(null)] - UDP监听器已成功启动
+2019-04-20 16:51:37,386 [9] INFO  log4net.AppLog [(null)] - 总PING数：7丢包数：1丢包率：14.29
+2019-04-20 16:51:39,387 [9] INFO  log4net.AppLog [(null)] - 总PING数：9丢包数：2丢包率：22.22
+2019-04-20 16:52:46,987 [10] INFO  log4net.AppLog [(null)] - UDP监听器已成功启动
+2019-04-20 16:55:36,821 [9] INFO  log4net.AppLog [(null)] - UDP监听器已成功启动
+2019-04-20 16:55:37,915 [9] INFO  log4net.AppLog [(null)] - 总PING数：2丢包数：1丢包率：50.00
+2019-04-20 17:09:29,967 [9] INFO  log4net.AppLog [(null)] - UDP监听器已成功启动
+2019-04-20 17:09:38,032 [9] INFO  log4net.AppLog [(null)] - 总PING数：9丢包数：1丢包率：11.11
+2019-04-20 17:09:39,031 [9] INFO  log4net.AppLog [(null)] - 总PING数：10丢包数：2丢包率：20.00
+2019-04-20 17:09:40,032 [9] INFO  log4net.AppLog [(null)] - 总PING数：11丢包数：3丢包率：27.27
+2019-04-20 17:10:59,036 [9] INFO  log4net.AppLog [(null)] - UDP监听器已成功启动
+2019-04-20 17:11:00,033 [9] INFO  log4net.AppLog [(null)] - 总PING数：2丢包数：1丢包率：50.00
+2019-04-20 17:11:07,032 [9] INFO  log4net.AppLog [(null)] - 总PING数：9丢包数：2丢包率：22.22
+2019-04-20 17:11:08,032 [9] INFO  log4net.AppLog [(null)] - 总PING数：10丢包数：3丢包率：30.00
+2019-04-20 17:11:09,031 [9] INFO  log4net.AppLog [(null)] - 总PING数：11丢包数：4丢包率：36.36
+2019-04-20 17:11:10,032 [9] INFO  log4net.AppLog [(null)] - 总PING数：12丢包数：5丢包率：41.67
+2019-04-20 17:11:11,032 [9] INFO  log4net.AppLog [(null)] - 总PING数：13丢包数：6丢包率：46.15
+2019-04-20 17:12:19,637 [9] INFO  log4net.AppLog [(null)] - UDP监听器已成功启动
+2019-04-20 17:12:37,031 [9] INFO  log4net.AppLog [(null)] - 总PING数：18丢包数：1丢包率：5.56
+2019-04-20 17:12:39,032 [9] INFO  log4net.AppLog [(null)] - 总PING数：20丢包数：2丢包率：10.00
+2019-04-20 17:12:41,032 [9] INFO  log4net.AppLog [(null)] - 总PING数：22丢包数：3丢包率：13.64
+2019-04-20 17:12:42,032 [9] INFO  log4net.AppLog [(null)] - 总PING数：23丢包数：4丢包率：17.39
+2019-04-20 17:13:39,532 [9] INFO  log4net.AppLog [(null)] - 总PING数：60丢包数：5丢包率：8.33
+2019-04-20 17:14:37,532 [9] INFO  log4net.AppLog [(null)] - 总PING数：58丢包数：1丢包率：1.72
+2019-04-20 17:14:39,531 [9] INFO  log4net.AppLog [(null)] - 总PING数：60丢包数：2丢包率：3.33
+2019-04-20 18:20:06,696 [10] INFO  log4net.AppLog [(null)] - UDP监听器已成功启动
+2019-04-20 18:27:34,268 [9] INFO  log4net.AppLog [(null)] - UDP监听器已成功启动
+2019-04-20 18:27:36,556 [9] INFO  log4net.AppLog [(null)] - 总PING数：3丢包数：1丢包率：33.33
+2019-04-20 18:27:40,556 [9] INFO  log4net.AppLog [(null)] - 总PING数：7丢包数：2丢包率：28.57
+2019-04-20 18:53:17,644 [9] INFO  log4net.AppLog [(null)] - UDP监听器已成功启动
+2019-04-20 18:53:37,057 [9] INFO  log4net.AppLog [(null)] - 总PING数：20丢包数：1丢包率：5.00
+2019-04-20 18:53:38,056 [9] INFO  log4net.AppLog [(null)] - 总PING数：21丢包数：2丢包率：9.52
+2019-04-20 18:58:50,686 [8] INFO  log4net.AppLog [(null)] - UDP监听器已成功启动
+2019-04-20 18:59:46,556 [8] INFO  log4net.AppLog [(null)] - 总PING数：50丢包数：1丢包率：2.00
+2019-04-20 19:00:16,096 [9] INFO  log4net.AppLog [(null)] - UDP监听器已成功启动
+2019-04-20 19:00:38,792 [10] INFO  log4net.AppLog [(null)] - UDP监听器已成功启动
+2019-04-20 19:00:40,056 [10] INFO  log4net.AppLog [(null)] - 总PING数：2丢包数：1丢包率：50.00
+2019-04-20 19:00:41,056 [10] INFO  log4net.AppLog [(null)] - 总PING数：3丢包数：2丢包率：66.67

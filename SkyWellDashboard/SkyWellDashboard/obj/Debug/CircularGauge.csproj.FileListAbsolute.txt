@@ -1,0 +1,1 @@
+D:\network\20190328\SkyWellAGaugeApp\CircularGauge\bin\Debug\CircularGauge.exe.config

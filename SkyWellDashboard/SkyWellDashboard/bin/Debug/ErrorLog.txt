@@ -1,0 +1,90 @@
+-------------------------------------------------------
+2019/4/26 9:22:08
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellDashboard.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\SkyWellDashboard\SkyWellDashboard\App.xaml.cs:行号 119
+-------------------------------------------------------
+2019/4/26 9:47:51
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellDashboard.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\SkyWellDashboard\SkyWellDashboard\App.xaml.cs:行号 119
+-------------------------------------------------------
+2019/4/26 11:06:15
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellDashboard.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\SkyWellDashboard\SkyWellDashboard\App.xaml.cs:行号 119
+-------------------------------------------------------
+2019/4/26 11:06:28
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellDashboard.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\SkyWellDashboard\SkyWellDashboard\App.xaml.cs:行号 119
+-------------------------------------------------------
+2019/4/26 11:08:31
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellDashboard.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\SkyWellDashboard\SkyWellDashboard\App.xaml.cs:行号 119
+-------------------------------------------------------
+2019/4/26 11:09:43
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellDashboard.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\SkyWellDashboard\SkyWellDashboard\App.xaml.cs:行号 119
+-------------------------------------------------------
+2019/4/26 11:14:17
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellDashboard.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\SkyWellDashboard\SkyWellDashboard\App.xaml.cs:行号 119
+-------------------------------------------------------
+2019/4/26 11:16:37
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellDashboard.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\SkyWellDashboard\SkyWellDashboard\App.xaml.cs:行号 119
+-------------------------------------------------------
+2019/4/26 11:17:48
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellDashboard.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\SkyWellDashboard\SkyWellDashboard\App.xaml.cs:行号 119
+-------------------------------------------------------
+2019/4/26 11:18:27
+成员名: Void ThrowArgumentException(System.ExceptionResource)
+引发异常的类: System.ThrowHelper
+异常信息: 没有具有此名称的值。
+引发异常的程序集或对象: mscorlib
+栈：   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 Microsoft.Win32.RegistryKey.DeleteValue(String name)
+   在 SkyWellDashboard.App.SetSelfStarting(Boolean started, String exeName) 位置 D:\network\SkyWellDashboard\SkyWellDashboard\App.xaml.cs:行号 119
